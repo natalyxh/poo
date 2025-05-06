@@ -25,7 +25,7 @@ Este proyecto es una API REST hecha con **Node.js + Express + MongoDB** que perm
 ### 1. Clonar el repositorio
 
 ```bash
-git clone https://github.com/natalyxh/POO-PostMail.git
+git clone https://github.com/natalyxh/poo/tree/main/parcila%20poo
 cd postmail-api
 ```
 
