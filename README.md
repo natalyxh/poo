@@ -154,5 +154,4 @@ postmail-api
 
 ## Autor
 
-Hecho con amor y sufrimiento severo por Yahir Enrique Romero Flores
-Desde Lolotique, El Salvador
+Verónica Nataly Morales Jiménez 
