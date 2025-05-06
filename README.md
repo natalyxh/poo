@@ -1,4 +1,4 @@
-# poo# POO - PostMail
+# poo - PostMail
 # 📦 API POSTMAIL - Gestión de Envíos con Créditos 🚚💳
 
 Este proyecto es una API REST hecha con **Node.js + Express + MongoDB** que permite a los usuarios:
